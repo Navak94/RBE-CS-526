@@ -27,7 +27,6 @@ class MinimalPublisher(Node):
 
 
 def control_read(minimal_publisher_instance):
-    """Just print out some event infomation when the gamepad is used."""
     x = 0
     analog_info=""
     feed =""
