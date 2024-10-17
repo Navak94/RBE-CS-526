@@ -7,17 +7,8 @@ https://www.youtube.com/watch?v=08o46x5SfJM&list=FLNX5oIYme7LW2MDj_FD5XwQ
 
 instructions
 
-FIRST TIME:
+`cd ~/Desktop/RBE-CS-526-master/`
 
-`python3 -m venv ~/Desktop/RBE-CS-526-master/my_ros_env`
+`./run_subscriber.sh & ./run_teleop.sh &`
 
 
-Every time after the first time you set up:
-
-`cd ~/Desktop/RBE-CS-526-master/src`
-
-`source ~/Desktop/RBE-CS-526-master/my_ros_env/bin/activate`
-
-`source /opt/ros/jazzy/setup.bash`
-
-`python3 teleop.py`
