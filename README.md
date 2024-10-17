@@ -12,7 +12,8 @@ FIRST TIME:
 `python3 -m venv ~/Desktop/RBE-CS-526-master/my_ros_env`
 
 
-to run:
+Every time after the first time you set up:
+
 `cd ~/Desktop/RBE-CS-526-master/src`
 
 `source ~/Desktop/RBE-CS-526-master/my_ros_env/bin/activate`
