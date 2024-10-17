@@ -9,12 +9,13 @@ instructions
 
 FIRST TIME:
 
-python3 -m venv ~/Desktop/RBE-CS-526-master/my_ros_env
+`python3 -m venv ~/Desktop/RBE-CS-526-master/my_ros_env`
 
 
-to run
-source ~/Desktop/RBE-CS-526-master/my_ros_env/bin/activate
+to run:
 
-source /opt/ros/jazzy/setup.bash
+`source ~/Desktop/RBE-CS-526-master/my_ros_env/bin/activate`
 
-python3 teleop.py
+`source /opt/ros/jazzy/setup.bash`
+
+`python3 teleop.py`
