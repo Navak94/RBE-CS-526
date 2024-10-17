@@ -7,8 +7,10 @@ https://www.youtube.com/watch?v=08o46x5SfJM&list=FLNX5oIYme7LW2MDj_FD5XwQ
 
 instructions
 
+get into the directory
 `cd ~/Desktop/RBE-CS-526-master/`
 
+run teleop and the subscriber
 `./run_subscriber.sh & ./run_teleop.sh &`
 
 
