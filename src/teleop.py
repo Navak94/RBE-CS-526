@@ -1,5 +1,4 @@
 from __future__ import print_function
-
 import rclpy
 from rclpy.node import Node
 from std_msgs.msg import String
