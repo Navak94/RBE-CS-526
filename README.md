@@ -13,6 +13,7 @@ FIRST TIME:
 
 
 to run:
+`cd ~/Desktop/RBE-CS-526-master/src`
 
 `source ~/Desktop/RBE-CS-526-master/my_ros_env/bin/activate`
 
